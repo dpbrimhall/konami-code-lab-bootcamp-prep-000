@@ -26,7 +26,7 @@ function init() {
         index++;
     
       if (index === codes.length) {
-        alert('Congratulations!');
+        alert('Congratulations, you correctly entered the Konami Code!');
       
         index = 0;
     }
